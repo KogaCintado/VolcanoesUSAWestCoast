@@ -53,4 +53,4 @@ map.add_child(fgv)
 map.add_child(fgp)
 
 map.add_child(folium.LayerControl(name="Filter", position="bottomleft"))
-map.save("MapVolcanoesWestCoast.html")
+map.save("result/MapVolcanoesWestCoast.html")

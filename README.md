@@ -1,2 +1,3 @@
 # Visualization Volcanoes USA West Coast ![license](https://img.shields.io/badge/license-MIT%20-orange) ![pandas version](https://img.shields.io/badge/pandas-2.2.3%20-blue) ![folium version](https://img.shields.io/badge/folium-0.18.0%20-lightblue) 
-Project 
+I wrote a script using pandas for data management and folium for web mapping to visualize the volcanoes along the West Coast of the USA.
+The map displays icons of varying colors based on the height of each volcano. When clicked, these icons provide information about the volcano and a hyperlink that search for the volcano's name on Google. Additionally, countries are color-coded according to their population.
